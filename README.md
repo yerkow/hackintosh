@@ -1,18 +1,16 @@
-# ASUS-TUF-F15-OPENCORE
-OpenCore EFI for ASUS TUF Gaming F15 FX506II
+# i5-4690 + RX 580
+OpenCore EFI for i5-4690 + RX 580
 
 You can change your wifi card to an (intel wifi card) to make wifi work
                     
 Specs  | Status
 ------------- | -------------
-CPU  | Ryzen 7 4800H :white_check_mark:
-GPU  | iGPU :white_check_mark:, dGPU :x:
-RAM  | 20GB 3200MHz :white_check_mark: 
-Storage  | Micron NVMe M.2 2210 :white_check_mark:
-Ethernet  | RTL8168/8111 :white_check_mark:
-WiFi & BT  | RTL8822CE :warning:
-Touchpad  | ELAN I2C HID :white_check_mark:
-Battery & Status | :white_check_mark:
+CPU  | i5 - 4690 :white_check_mark:
+GPU  | iGPU :white_check_mark:, dGPU :white_check_mark:
+RAM  | 32GB 1600MHz :white_check_mark: 
+Storage  | SATA SSD :white_check_mark:
+Ethernet  | I217-V :white_check_mark:
+WiFi & BT  | TP-Link UB400 :warning:
 <p align="center">
 <b>⭐ Please consider starring & forking this repository if it helped you! ⭐</b>
 </p>
